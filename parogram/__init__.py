@@ -1,4 +1,4 @@
-import apihelper
+from parogram import apihelper
 import requests
 
 # Telegram API URL

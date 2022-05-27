@@ -1,4 +1,3 @@
-import re
 import parogram
 import requests
 
